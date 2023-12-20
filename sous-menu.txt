@@ -1,0 +1,55 @@
+sous-menu
+<ul class="Categories"> 
+                        <li class=" CategoriesMenu">Bootcamps 
+                            <!--<ul>Cours<li>The Full-Stack JS Bootcamp</li>
+                                <li>The Data Science Bootcamp</li>
+                                <li>The Digital Marketing Bootcamp</li>
+                                <li>The Ultimate Design Bootcamp</li>
+                                <li>The DevOps Bootcamp</li>
+                            </ul>-->
+                        </li>
+                        <li class=" CategoriesMenu">Data
+                           <!-- <ul>Cours
+                                <li>Coding with Python</li>
+                                <li>TThe Data Science Bootcamp</li>
+                                <li>Introduction to Artificial Intelligence</li>
+                                <li>Introduction to Business Intelligence</li>
+                                <li>Introduction to Power BI</li>
+                            </ul>-->
+                        </li>
+                        <li class=" CategoriesMenu">Web  
+                           <!-- <ul>Cours
+                                <li>The Full-Stack JS Bootcamp</li>
+                                <li>Introduction to Web Development</li>
+                                <li>TIntroduction to React.js</li>
+                                <li>Introduction to Node.js</li>
+                                <li>The DevOps Bootcamp</li>
+                                <li>TCybersecurity Bootcamp: Security+ Certification</li>
+                            </ul>-->
+                        </li>
+                        <li class=" CategoriesMenu">Design                                 
+                           <!-- <ul>Cours
+                                <li>Introduction to UX Design</li>
+                                <li>Graphic design with Adobe Illustrator</li>
+                                <li>Graphic design: Adobe Photoshop</li>
+                                <li>The Ultimate Design Bootcamp</li>
+                                <li>Introduction to UI Design</li>
+                            </ul>-->
+                        </li>
+                        <li class=" CategoriesMenu">Marketing 
+                            <!--<ul>Cours
+                                <li>Digital Marketing: Social Media Management</li>
+                                <li>Advanced Digital Marketing: E-commerce & SEO</li>
+                                <li>The Digital Marketing Bootcamp</li>
+                                <li>Business Consulting: The Complete Guide</li>
+                            </ul>-->
+                        </li>
+                        <li class=" CategoriesMenu">Kids & Games
+                            <!--<ul>Cours
+                                <li>Introduction to Game Development</li>
+                                <li>AIntroduction to 2D Game Development</li>
+                                <li>Kids program: Scratch and App Inventor</li>
+                                <li>BKids Tech Program</li>
+                            </ul>-->
+                        </li> 
+                    </ul>
